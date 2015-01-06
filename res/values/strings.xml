@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EstegApp</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bt1_tela1">Esteganografar</string>
+    <string name="bt2_tela1">Desesteganografar</string>
+    <string name="bt3_tela1">Sobre</string>
+    <string name="action_sobre">Sobre</string>
+    <string name="title_activity_sobre">Sobre</string>
+    <string name="texto_sobre">Protótipo, criado como trabalho de conclusão do curso de Tecnologia em Segurança da Informação da faculdade Promove de Brasília, sob orientação do Profº Cid Bendahan Cintra. \n\nAutores: \nEli de Faria Junior\nCaio Monturil</string>
+    <string name="voltar">Voltar</string>
+    <string name="sair">Sair</string>
+    <string name="title_activity_esteganografar">Esteganografar</string>
+    <string name="title_activity_desesteganografar">Desesteganografar</string>
+    <string name="tv1_estg">Escolha a imagem:</string>
+    <string name="escolher_imagem">Escolher &#8230;</string>
+    <string name="tirar_foto">Abrir câmera&#8230;</string>
+    <string name="proximo">></string>
+    <string name="anterior">&lt;</string>
+    <string name="title_activity_esteganografar2">Esteganografar</string>
+    <string name="digite_texto">Digite o texto:</string>
+    <string name="title_activity_esteganografar3">Esteganografar</string>
+    <string name="confirmacao">Confirmação:</string>
+
+</resources>
